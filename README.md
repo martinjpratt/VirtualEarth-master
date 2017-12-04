@@ -15,4 +15,4 @@ are stored on an external server as asset bundles and downloaded as needed.
 You can view a demo here:
 https://www.youtube.com/watch?v=GGWNUWUXnYc
 
-For more information go to virtualplanet.wustl.edu or email fossett.lab@wustl.edu
+For more information go to https://virtualplanet.wustl.edu or email fossett.lab@wustl.edu
