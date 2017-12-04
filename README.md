@@ -1,0 +1,14 @@
+# VirtualEarth-master
+Platform to host 3D outcrop models from around the world
+
+Currently this is a little rough, but wanted to get some of the code up to Github sooner rather than later. It includes
+most of the HoloToolkit so that could be removed for future uploads.
+
+This set of codes is the bare bones to run the Virtual Earth application on the HoloLens. The application allows for the
+downloading and displaying of 3 dimensional holographic outcrops in 1:1 scale (and scaled if needed). The outcrop models
+are stored on an external server as asset bundles and downloaded as needed.
+
+
+
+You can view a demo here:
+https://www.youtube.com/watch?v=GGWNUWUXnYc
