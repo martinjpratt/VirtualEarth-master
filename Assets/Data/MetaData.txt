@@ -1,0 +1,6 @@
+Valley Of Fire	-114.55438248	36.41229788	3	Valley of Fire 5	VoFObjects	SceneObjects	Muddy Mountain 3	MudMtnOutcrop3	SceneObjects	Muddy Mountain Drone	MudMtnDrone	SceneObjects	#
+Palisade Sill	-73.90382335	41.0010986	1	PalisadeObject	SceneObjects	#
+Hughes Mountain	-90.71099284	37.80398056	1	hughesMountain_full	SceneObjects	#
+San Juan	-69.06524	-30.20495	3	Basalt Columns	BasaltColumnObjects	SceneObjects	Travertine Quarry	TravertineQuarryObjects	SceneObjects	Cerro La Silla	CerroLaSillaObjects	SceneObjects	#
+Stackpole Quay	-4.67762654	51.69729694	1	StackpoleObjects	SceneObjects	#
+Azores	-25.111650	36.952054	2	Santa Maria Raised Beach	SMBeachObjects	SceneObjects	Faial da Terra Dyke	FdTObjects	SceneObjects	#

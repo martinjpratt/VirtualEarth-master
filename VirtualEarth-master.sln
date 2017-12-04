@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualEarth-master", "VirtualEarth-master.csproj", "{0C396C77-32BD-9FA9-DDA2-7CB0BF809764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualEarth-master.Editor", "VirtualEarth-master.Editor.csproj", "{57B39F57-30DA-CE80-E332-21B1023317EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C396C77-32BD-9FA9-DDA2-7CB0BF809764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C396C77-32BD-9FA9-DDA2-7CB0BF809764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C396C77-32BD-9FA9-DDA2-7CB0BF809764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C396C77-32BD-9FA9-DDA2-7CB0BF809764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B39F57-30DA-CE80-E332-21B1023317EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B39F57-30DA-CE80-E332-21B1023317EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B39F57-30DA-CE80-E332-21B1023317EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B39F57-30DA-CE80-E332-21B1023317EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

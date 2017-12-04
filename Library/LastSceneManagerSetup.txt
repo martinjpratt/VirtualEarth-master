@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NA_view.unity
+  isLoaded: 1
+  isActive: 1
