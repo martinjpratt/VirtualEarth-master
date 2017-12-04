@@ -10,7 +10,7 @@ This set of codes is the bare bones to run the Virtual Earth application on the 
 downloading and displaying of 3 dimensional holographic outcrops in 1:1 scale (and scaled if needed). The outcrop models
 are stored on an external server as asset bundles and downloaded as needed.
 
-
+![Alt text](/RepoFiles/20170914_160753_HoloLens-ysy76k.jpg?raw=true "SharedExperiences")
 
 You can view a demo here:
 https://www.youtube.com/watch?v=GGWNUWUXnYc
